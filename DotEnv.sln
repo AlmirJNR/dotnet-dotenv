@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotEnv", "DotEnv\DotEnv.csproj", "{AD58F63E-3FE8-4B02-9AFC-B919C15B5763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotEnv.Extensions.AspNetCore", "DotEnv.Extensions.AspNetCore\DotEnv.Extensions.AspNetCore.csproj", "{967EED98-014E-480F-94CC-4CC9288AE306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD58F63E-3FE8-4B02-9AFC-B919C15B5763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD58F63E-3FE8-4B02-9AFC-B919C15B5763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD58F63E-3FE8-4B02-9AFC-B919C15B5763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD58F63E-3FE8-4B02-9AFC-B919C15B5763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967EED98-014E-480F-94CC-4CC9288AE306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967EED98-014E-480F-94CC-4CC9288AE306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967EED98-014E-480F-94CC-4CC9288AE306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967EED98-014E-480F-94CC-4CC9288AE306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
